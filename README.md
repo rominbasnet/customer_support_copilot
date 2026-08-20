@@ -208,7 +208,7 @@ Example structure:
 └── ...
 ```
 
-Update this section to match the actual repository structure.
+
 
 ---
 
