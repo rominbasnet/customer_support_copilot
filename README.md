@@ -189,23 +189,17 @@ Example structure:
 
 ```text
 .
-├── agent/
-│   ├── ...
+├── agent.py
 │
-├── tools/
-│   ├── order_lookup.py
-│   ├── refund.py
-│   └── ...
+├── main.py
 │
-├── api/
-│   └── ...
+├── models.py
+
 │
-├── tests/
-│   └── ...
+├── tools.py
 │
 ├── README.md
 ├── requirements.txt
-└── ...
 ```
 
 
